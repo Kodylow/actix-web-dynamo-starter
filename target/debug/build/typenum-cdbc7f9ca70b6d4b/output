@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/runner/actix-web-task-server/target/debug/build/typenum-cdbc7f9ca70b6d4b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/runner/actix-web-task-server/target/debug/build/typenum-cdbc7f9ca70b6d4b/out/op.rs
